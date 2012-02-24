@@ -18,6 +18,7 @@ table.content td {
 }
 
 table.nav {
+	margin-top: 3px;
 	border-width: 0px;
 	border-spacing: 0px;
 	border-style: none;
