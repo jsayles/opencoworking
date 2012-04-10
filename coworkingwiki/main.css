@@ -24,7 +24,6 @@ table.nav {
 	border-color: #CFDBDF;
 	border-collapse: collapse;
 	background-color: #CFDBDF;
-	width: 580px;
 }
 table.nav th {
 	border-width: 0px;
@@ -33,4 +32,5 @@ table.nav th {
 	border-color: #CFDBDF;
 	background-color: #CFDBDF;
 }	
+
 
